@@ -10,7 +10,6 @@
     - httpd
     - httpd-tools
     - git
-    - ansible
 
 # Configure apache
 - name: Ensure httpd is running
